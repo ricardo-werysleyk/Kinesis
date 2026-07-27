@@ -1,4 +1,4 @@
-# ⚡ Kinesis - Fisioterapia Esportiva
+# Kinesis - Fisioterapia Esportiva
 
 O **Kinesis** é uma aplicação web completa projetada para gestão e agendamento de consultas focadas em fisioterapia esportiva, reabilitação e alta performance.
 
