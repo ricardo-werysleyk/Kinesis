@@ -1,0 +1,15 @@
+# Ambientes virtuais e Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+
+# Dependências do Node / Build do React
+frontend/node_modules/
+frontend/dist/
+
+# Variáveis de ambiente
+.env
+.env.local
+.vscode/
+.idea/
